@@ -1,2 +1,2 @@
-# go fiber lern
+# Go fiber lern
 lern Go with Framework Fiber 
