@@ -1,2 +1,2 @@
-# go_fiber_lern
+# go fiber lern
 lern Go with Framework Fiber 
